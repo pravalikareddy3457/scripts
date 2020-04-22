@@ -1,5 +1,6 @@
-import sys
+# Conference room scheduling.
 
+import sys
 
 class MeetingScheduler(object):
     """docstring for MeetingScheduler"""
